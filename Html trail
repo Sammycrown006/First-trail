@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Page title</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    
+    <header>
+ <div class="heading">
+ <h1>GeorgeCorp</h1>
+ <p>creating the future</p>
+ </div>
+ </header>
+ 
+ <h2>GeorgeCorp Intro</h2>
+ 
+ <h3 class="tag">GeorgeCorp orientation</h3>
+ 
+<div class="para">
+<p><span class="bold">GeorgeCorp (since 2001):</span> GeorgeCorp was established in the year 2001 but formally certified by 2003. GeorgeCorp is a Company or firm dedicated to building a new generation if skilled tech workers, with the aim of generating a considerable amount of income for each worker. GreorgeCorp basically teaches an individual wether Student worker etc a tech skill and then employs them on their consent with a negotiable salary. It was founded by Miss Temitope George Moyinoluwa.</p>
+</div>
+ 
+ <h3 class="tag">Role of GeorgeCorp in today's Economy</h3>
+ 
+ <div class="para">
+ <p>The prestigious <span class="bold">GeorgeCorp</span> has a very captivating history , as GeorgeCorp is one of the most recognized tech firms in todays economy. GeorgeCorp has helped thousands of youths in getting jobs , with the help of a beautiful and effective structure of be taught and work . This particular opportunity has helped Students and graduates to secure jobs with ease and without the battle of hunting of a good day Job.</p>
+ </div>
+ 
+ <h3 class="tag">Opportunities GeorgeCorp has to offer</h3>
+ 
+ <div class="para">
+ <p>There are many opportunities you can get from <span class="bold">George Corp</span>Apart from being taught any tech skill you desire at a very affordable price inline , GeorgeCorp also gives you the opportunity to become an employee with them with a pay that corresponds to your work . Being an employee, with GeorgeCorp allows you to work from home online and still get paid as long as your consistent.</p>
+ </div>
+ 
+ <ul>Some of <span class="bold">GeorgeCorp's</span> many opportunities 
+     <li>Learn a Tech skill</li>
+     <li>Work with us </li>
+     <li>Become a sheer holder</li>
+     <li>Support George Corp</li>
+     <li>Our services</li>
+ </ul>
+ 
+ <div>
+     <h4 class="tag">Some of GeorgeCorps Projects</h4>
+     
+     <div class="images">
+         <img class="image" src="mainnet.jpg" alt="a graphics design model">
+         <p class="tag">A Graphics design project </p>
+         <img class="image" src="academic Design.jpg" alt="a graphics design model">
+         <p class="tag">A Graphics design project</p>
+         <img class="image" src="FM disease pic.jpg" alt="a content writing model">
+         <p class="tag">A content writing project</p>
+         <img class="image" src="web page.jpg" alt="a web page sample">
+         <p class="tag">A web page project</p>
+     </div>
+ </div>
+ 
+     <form>
+         <h4>Sign in to work with us at GeorgeCorp</h4>
+         <section>
+             <label>Name<br><input type="name" placeholder="name" /></label><br>
+             <label>Email<br><input type="email" placeholder="email" /></label><br>
+             <label>Phone number<br><input type="number" placeholder="phone number" /></label><br>
+         </section>
+         <section class="radio">
+             <h4>What job would you like to apply for </h4>
+             <label><input type="radio">Content writer</label><br>
+             <label><input type="radio">Graphics designer</label><br>
+             <label><input type="radio">Web developer</label><br>
+             <label><input type="radio">Virtual assistant</label><br>
+             <label><input type="radio">Digital marketer</label><br>
+             <label><input type="radio">Proof reader</label><br>
+             <label><input type="radio">Web designer</label>
+         </section>
+         <section>
+             <h4>Support GeorgeCorp and become a beneficiary</h4>
+             <p>sign into to the GeorgeCorp program</p>
+             <p>Join our social meadia handles</p>
+         </section>
+         <section>
+         <button id="submit">Submit</button>
+         </section>
+     </form>
+ <script lang="JavaScript" src="trail.js"></script>
+</body>
+</html>
